@@ -1,0 +1,14 @@
+node_modules/
+dist/
+data/
+*.db
+*.db-wal
+*.db-shm
+.env
+.DS_Store
+coverage/
+*.log
+.vite/
+.npm-cache/
+.vitest-cache/
+.vitest-tmp/
